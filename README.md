@@ -18,4 +18,14 @@ This study investigates how M-BERT encodes grammatical gender across languages, 
 
 - Zero-shot transfer is possible even to languages not explicitly trained on, such as Beja.
 
-#### Repository Structure
+#### Usage 
+
+##### Install dependencies:
+
+bash
+pip install -r requirements.txt
+
+##### Run the main script:
+
+python scripts/Layer-wise-analysis-mBERT.py
+
