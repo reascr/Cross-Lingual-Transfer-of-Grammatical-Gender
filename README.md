@@ -22,7 +22,6 @@ This study investigates how M-BERT encodes grammatical gender across languages, 
 
 ##### Install dependencies:
 
-bash
 pip install -r requirements.txt
 
 ##### Run the main script:
